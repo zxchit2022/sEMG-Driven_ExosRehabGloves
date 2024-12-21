@@ -1,4 +1,4 @@
-# sEMG-Driven_ExosRehabGloves
+# Plug-and-Play sEMG-Driven Hand Gesture Recognition with Subdomain Adaptation for Exoskeleton Rehabilitation Gloves
  This is an sEMG-driven exoskeleton rehabilitation glove designed for stroke patients with hemiplegia. We utilize sEMG signal acquisition device to capture and recognize hand movements from the patient’s healthy limb. The exoskeleton glove then aids the impaired limb in performing rehabilitation exercises. The contributions of this article
 can be summarized as follows.
 1) PPSDA is proposed for sEMG signals decoding in gesture recognition and offers a new perspective on solving the domain shift. This presents an effective solution for exoskeleton rehabilitation gloves control, with the potential to expand its practical applications.
@@ -13,5 +13,22 @@ The demonstration videos are attached below.
 https://github.com/user-attachments/assets/b3e079e4-6c8b-4ac6-ae2c-175ea57d9d2f
 
 https://github.com/user-attachments/assets/59c2628d-6b98-4dff-97e6-e6305b75eccb
+
+#Citing
+
+If you find our work is useful for your research, please consider citing it:
+
+```plaintext
+@ARTICLE{10778231,
+  author={Zhong, Xiao-Cong and Wang, Qisong and Liu, Dan and Wang, Xuefu and Li, Rui and Wang, Yunfei and Zhang, Meiyan and Sun, Jinwei},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Plug-and-Play sEMG-Driven Hand Gesture Recognition With Subdomain Adaptation for Exoskeleton Rehabilitation Gloves}, 
+  year={2025},
+  volume={74},
+  number={},
+  pages={1-10},
+  keywords={Gesture recognition;Feature extraction;Training;Exoskeletons;Decoding;Adaptation models;Transfer learning;Target recognition;Motors;Computational modeling;Hand gesture recognition;rehabilitation gloves;subdomain adaptation;surface electromyography (sEMG);transfer learning},
+  doi={10.1109/TIM.2024.3502881}}
+
 
 
